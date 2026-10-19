@@ -1,0 +1,8 @@
+{
+  "name": "xcode-skills",
+  "version": "1.0.0",
+  "description": "Skills exported from Xcode: SwiftUI, App Intents, testing, security auditing, and device interaction.",
+  "author": {
+    "name": "Apple"
+  }
+}

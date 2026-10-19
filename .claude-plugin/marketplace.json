@@ -1,0 +1,14 @@
+{
+  "name": "xcode-skills",
+  "description": "Apple's Xcode-provided skills, exported for Claude Code.",
+  "owner": {
+    "name": "final"
+  },
+  "plugins": [
+    {
+      "name": "xcode-skills",
+      "source": "./",
+      "description": "Skills exported from Xcode: SwiftUI, App Intents, testing, security auditing, and device interaction."
+    }
+  ]
+}
